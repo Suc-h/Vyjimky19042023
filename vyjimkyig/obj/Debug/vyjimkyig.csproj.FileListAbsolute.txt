@@ -1,0 +1,10 @@
+M:\ITB3\suchyd.05\PRG\vyjimkyig\vyjimkyig\bin\Debug\vyjimkyig.exe.config
+M:\ITB3\suchyd.05\PRG\vyjimkyig\vyjimkyig\bin\Debug\vyjimkyig.exe
+M:\ITB3\suchyd.05\PRG\vyjimkyig\vyjimkyig\bin\Debug\vyjimkyig.pdb
+M:\ITB3\suchyd.05\PRG\vyjimkyig\vyjimkyig\obj\Debug\vyjimkyig.csprojAssemblyReference.cache
+M:\ITB3\suchyd.05\PRG\vyjimkyig\vyjimkyig\obj\Debug\vyjimkyig.Form1.resources
+M:\ITB3\suchyd.05\PRG\vyjimkyig\vyjimkyig\obj\Debug\vyjimkyig.Properties.Resources.resources
+M:\ITB3\suchyd.05\PRG\vyjimkyig\vyjimkyig\obj\Debug\vyjimkyig.csproj.GenerateResource.cache
+M:\ITB3\suchyd.05\PRG\vyjimkyig\vyjimkyig\obj\Debug\vyjimkyig.csproj.CoreCompileInputs.cache
+M:\ITB3\suchyd.05\PRG\vyjimkyig\vyjimkyig\obj\Debug\vyjimkyig.exe
+M:\ITB3\suchyd.05\PRG\vyjimkyig\vyjimkyig\obj\Debug\vyjimkyig.pdb
